@@ -207,6 +207,6 @@ By completing this project, I practiced combining functions and loops to build u
 YouTube demonstration link: **Add your YouTube video link here after uploading the technical explanation video.**
 
 ## Repository
-Repository name::
+Repository name:
 
 `super30-python-final-loop-function-project`
