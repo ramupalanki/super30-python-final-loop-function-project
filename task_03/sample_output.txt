@@ -1,0 +1,6 @@
+Sample:
+Enter choice: 1
+Enter product name: Pen
+Enter product price: 10
+Enter product quantity: 5
+Product added successfully.

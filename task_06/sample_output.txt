@@ -1,0 +1,6 @@
+Sample:
+Salaries: 30000, 40000, 50000
+Total payroll: 120000.00
+Average salary: 40000.00
+Highest salary: 50000.00
+Lowest salary: 30000.00

@@ -1,0 +1,10 @@
+Sample:
+Enter student name: Arun
+Enter number of subjects: 3
+Enter marks for subject 1: 80
+Enter marks for subject 2: 75
+Enter marks for subject 3: 90
+Total: 245.00
+Percentage: 81.67%
+Grade: A
+Result: PASS

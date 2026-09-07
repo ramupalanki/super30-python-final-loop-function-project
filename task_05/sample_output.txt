@@ -1,0 +1,10 @@
+Sample:
+Numbers: 10, -3, 8, 5
+Largest: 10
+Smallest: -3
+Total: 20
+Average: 5.0
+Even count: 2
+Odd count: 2
+Positive count: 3
+Negative count: 1

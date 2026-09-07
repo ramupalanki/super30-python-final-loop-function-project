@@ -1,0 +1,7 @@
+Sample:
+Enter start of range: 1
+Enter end of range: 10
+Prime numbers: [2, 3, 5, 7]
+Prime count: 4
+Prime sum: 17
+Largest prime: 7

@@ -1,0 +1,4 @@
+Sample:
+Enter choice: 2
+Enter deposit amount: 5000
+Deposit successful. New balance: 5000.00

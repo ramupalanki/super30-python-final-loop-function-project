@@ -1,0 +1,7 @@
+Sample:
+Enter choice: 1
+Enter product name: Notebook
+Enter product price: 50
+Enter quantity: 2
+Product added to cart.
+Total bill: 100.00

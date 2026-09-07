@@ -1,0 +1,6 @@
+Sample:
+Enter choice: 1
+Enter expense name: Food
+Enter expense amount: 250
+Expense added successfully.
+Total expenses: 250.00

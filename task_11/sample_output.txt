@@ -1,0 +1,6 @@
+Sample:
+Enter username: student
+Enter password: Python@123
+Login successful!
+1. Logout
+2. Exit

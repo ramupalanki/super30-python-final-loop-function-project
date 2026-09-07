@@ -1,0 +1,6 @@
+Sample:
+Question 1: What keyword defines a function in Python?
+Your answer: def
+Correct!
+Final Score: 5/5
+Percentage: 100.00%
